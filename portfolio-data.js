@@ -10,7 +10,7 @@ const PORTFOLIO_DATA = {
     email: "gokulkrishnar04@gmail.com",
     linkedin: "https://www.linkedin.com/in/GokulKrishnaR04",
     github: "https://github.com/GokulKrishnaR",
-    resumeUrl: "assets/resume.pdf",
+    resumeUrl: "assets/Gokul_Krishna_R_Resume.pdf",
     location: "Kochi, Kerala, India"
   },
 
